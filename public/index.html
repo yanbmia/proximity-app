@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#4338ca" />
     <meta
@@ -10,9 +10,19 @@
       content="Proximity - Find the perfect NYC neighborhood near your university."
     />
 
-    <link rel="manifest" href="/manifest.json" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
     <title>Proximity</title>
+    <script>
+      // GitHub Pages SPA redirect fallback (for deep links / refreshes)
+      (function () {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
