@@ -1,0 +1,96 @@
+[{"complex_id":"624","stop_name":"World Trade Center","borough":"M","gtfs_latitude":"40.712582","gtfs_longitude":"-74.009781","daytime_routes":"E"}
+,{"complex_id":"141","stop_name":"Park Pl","borough":"Bk","gtfs_latitude":"40.674772","gtfs_longitude":"-73.957624","daytime_routes":"S"}
+,{"complex_id":"47","stop_name":"Newkirk Plaza","borough":"Bk","gtfs_latitude":"40.635082","gtfs_longitude":"-73.962793","daytime_routes":"B Q"}
+,{"complex_id":"271","stop_name":"Steinway St","borough":"Q","gtfs_latitude":"40.756879","gtfs_longitude":"-73.92074","daytime_routes":"M R"}
+,{"complex_id":"256","stop_name":"Parsons Blvd","borough":"Q","gtfs_latitude":"40.707564","gtfs_longitude":"-73.803326","daytime_routes":"F"}
+,{"complex_id":"323","stop_name":"Christopher St-Stonewall","borough":"M","gtfs_latitude":"40.733422","gtfs_longitude":"-74.002906","daytime_routes":"1"}
+,{"complex_id":"414","stop_name":"Bowling Green","borough":"M","gtfs_latitude":"40.704817","gtfs_longitude":"-74.014065","daytime_routes":"4 5"}
+,{"complex_id":"367","stop_name":"St Lawrence Av","borough":"Bx","gtfs_latitude":"40.831509","gtfs_longitude":"-73.867618","daytime_routes":"6"}
+,{"complex_id":"306","stop_name":"125 St","borough":"M","gtfs_latitude":"40.815581","gtfs_longitude":"-73.958372","daytime_routes":"1"}
+,{"complex_id":"613","stop_name":"Lexington Av/59 St","borough":"M","gtfs_latitude":"40.76266","gtfs_longitude":"-73.967258","daytime_routes":"N R W"}
+,{"complex_id":"235","stop_name":"York St","borough":"Bk","gtfs_latitude":"40.701397","gtfs_longitude":"-73.986751","daytime_routes":"F"}
+,{"complex_id":"246","stop_name":"Avenue I","borough":"Bk","gtfs_latitude":"40.625322","gtfs_longitude":"-73.976127","daytime_routes":"F"}
+,{"complex_id":"62","stop_name":"55 St","borough":"Bk","gtfs_latitude":"40.631435","gtfs_longitude":"-73.995476","daytime_routes":"D"}
+,{"complex_id":"207","stop_name":"Beach 36 St","borough":"Q","gtfs_latitude":"40.595398","gtfs_longitude":"-73.768175","daytime_routes":"A"}
+,{"complex_id":"107","stop_name":"Broad St","borough":"M","gtfs_latitude":"40.706476","gtfs_longitude":"-74.011056","daytime_routes":"J Z"}
+,{"complex_id":"396","stop_name":"96 St","borough":"M","gtfs_latitude":"40.785672","gtfs_longitude":"-73.95107","daytime_routes":"6"}
+,{"complex_id":"607","stop_name":"34 St-Herald Sq","borough":"M","gtfs_latitude":"40.749567","gtfs_longitude":"-73.98795","daytime_routes":"N Q R W"}
+,{"complex_id":"610","stop_name":"Grand Central-42 St","borough":"M","gtfs_latitude":"40.752769","gtfs_longitude":"-73.979189","daytime_routes":"S"}
+,{"complex_id":"635","stop_name":"South Ferry","borough":"M","gtfs_latitude":"40.702068","gtfs_longitude":"-74.013664","daytime_routes":"1"}
+,{"complex_id":"214","stop_name":"182-183 Sts","borough":"Bx","gtfs_latitude":"40.856093","gtfs_longitude":"-73.900741","daytime_routes":"B D"}
+,{"complex_id":"622","stop_name":"Brooklyn Bridge-City Hall","borough":"M","gtfs_latitude":"40.713065","gtfs_longitude":"-74.004131","daytime_routes":"4 5 6"}
+,{"complex_id":"152","stop_name":"135 St","borough":"M","gtfs_latitude":"40.817894","gtfs_longitude":"-73.947649","daytime_routes":"C B"}
+,{"complex_id":"424","stop_name":"Pelham Pkwy","borough":"Bx","gtfs_latitude":"40.857192","gtfs_longitude":"-73.867615","daytime_routes":"2 5"}
+,{"complex_id":"76","stop_name":"Bay Pkwy","borough":"Bk","gtfs_latitude":"40.611815","gtfs_longitude":"-73.981848","daytime_routes":"N"}
+,{"complex_id":"439","stop_name":"125 St","borough":"M","gtfs_latitude":"40.807754","gtfs_longitude":"-73.945495","daytime_routes":"2 3"}
+,{"complex_id":"61","stop_name":"50 St","borough":"Bk","gtfs_latitude":"40.63626","gtfs_longitude":"-73.994791","daytime_routes":"D"}
+,{"complex_id":"39","stop_name":"Bay Ridge-95 St","borough":"Bk","gtfs_latitude":"40.616622","gtfs_longitude":"-74.030876","daytime_routes":"R"}
+,{"complex_id":"284","stop_name":"Nassau Av","borough":"Bk","gtfs_latitude":"40.724635","gtfs_longitude":"-73.951277","daytime_routes":"G"}
+,{"complex_id":"168","stop_name":"Spring St","borough":"M","gtfs_latitude":"40.726227","gtfs_longitude":"-74.003739","daytime_routes":"C E"}
+,{"complex_id":"386","stop_name":"Mt Eden Av","borough":"Bx","gtfs_latitude":"40.844434","gtfs_longitude":"-73.914685","daytime_routes":"4"}
+,{"complex_id":"605","stop_name":"168 St","borough":"M","gtfs_latitude":"40.840719","gtfs_longitude":"-73.939561","daytime_routes":"A C"}
+,{"complex_id":"278","stop_name":"Jamaica Center-Parsons/Archer","borough":"Q","gtfs_latitude":"40.702147","gtfs_longitude":"-73.801109","daytime_routes":"E J Z"}
+,{"complex_id":"299","stop_name":"Dyckman St","borough":"M","gtfs_latitude":"40.860531","gtfs_longitude":"-73.925536","daytime_routes":"1"}
+,{"complex_id":"34","stop_name":"53 St","borough":"Bk","gtfs_latitude":"40.645069","gtfs_longitude":"-74.014034","daytime_routes":"R"}
+,{"complex_id":"190","stop_name":"80 St","borough":"Q","gtfs_latitude":"40.679371","gtfs_longitude":"-73.858992","daytime_routes":"A"}
+,{"complex_id":"183","stop_name":"Rockaway Av","borough":"Bk","gtfs_latitude":"40.67834","gtfs_longitude":"-73.911946","daytime_routes":"C"}
+,{"complex_id":"616","stop_name":"Jackson Hts-Roosevelt Av","borough":"Q","gtfs_latitude":"40.746644","gtfs_longitude":"-73.891338","daytime_routes":"E F M R"}
+,{"complex_id":"51","stop_name":"Kings Hwy","borough":"Bk","gtfs_latitude":"40.60867","gtfs_longitude":"-73.957734","daytime_routes":"B Q"}
+,{"complex_id":"397","stop_name":"86 St","borough":"M","gtfs_latitude":"40.779492","gtfs_longitude":"-73.955589","daytime_routes":"4 5 6"}
+,{"complex_id":"2","stop_name":"Astoria Blvd","borough":"Q","gtfs_latitude":"40.770258","gtfs_longitude":"-73.917843","daytime_routes":"N W"}
+,{"complex_id":"429","stop_name":"Freeman St","borough":"Bx","gtfs_latitude":"40.829993","gtfs_longitude":"-73.891865","daytime_routes":"2 5"}
+,{"complex_id":"210","stop_name":"Norwood-205 St","borough":"Bx","gtfs_latitude":"40.874811","gtfs_longitude":"-73.878855","daytime_routes":"D"}
+,{"complex_id":"450","stop_name":"103 St-Corona Plaza","borough":"Q","gtfs_latitude":"40.749865","gtfs_longitude":"-73.8627","daytime_routes":"7"}
+,{"complex_id":"355","stop_name":"Winthrop St","borough":"Bk","gtfs_latitude":"40.656652","gtfs_longitude":"-73.9502","daytime_routes":"2 5"}
+,{"complex_id":"608","stop_name":"4 Av-9 St","borough":"Bk","gtfs_latitude":"40.670272","gtfs_longitude":"-73.989779","daytime_routes":"F G"}
+,{"complex_id":"242","stop_name":"Fort Hamilton Pkwy","borough":"Bk","gtfs_latitude":"40.650782","gtfs_longitude":"-73.975776","daytime_routes":"F G"}
+,{"complex_id":"252","stop_name":"Avenue X","borough":"Bk","gtfs_latitude":"40.58962","gtfs_longitude":"-73.97425","daytime_routes":"F"}
+,{"complex_id":"418","stop_name":"233 St","borough":"Bx","gtfs_latitude":"40.893193","gtfs_longitude":"-73.857473","daytime_routes":"2 5"}
+,{"complex_id":"127","stop_name":"DeKalb Av","borough":"Bk","gtfs_latitude":"40.703811","gtfs_longitude":"-73.918425","daytime_routes":"L"}
+,{"complex_id":"137","stop_name":"East 105 St","borough":"Bk","gtfs_latitude":"40.650573","gtfs_longitude":"-73.899485","daytime_routes":"L"}
+,{"complex_id":"464","stop_name":"Vernon Blvd-Jackson Av","borough":"Q","gtfs_latitude":"40.742626","gtfs_longitude":"-73.953581","daytime_routes":"7"}
+,{"complex_id":"392","stop_name":"125 St","borough":"M","gtfs_latitude":"40.804138","gtfs_longitude":"-73.937594","daytime_routes":"4 5 6"}
+,{"complex_id":"508","stop_name":"Jefferson Av","borough":"SI","gtfs_latitude":"40.583591","gtfs_longitude":"-74.103338","daytime_routes":"SIR"}
+,{"complex_id":"327","stop_name":"Chambers St","borough":"M","gtfs_latitude":"40.715478","gtfs_longitude":"-74.009266","daytime_routes":"1 2 3"}
+,{"complex_id":"195","stop_name":"Ozone Park-Lefferts Blvd","borough":"Q","gtfs_latitude":"40.685951","gtfs_longitude":"-73.825798","daytime_routes":"A"}
+,{"complex_id":"66","stop_name":"18 Av","borough":"Bk","gtfs_latitude":"40.607954","gtfs_longitude":"-74.001736","daytime_routes":"D"}
+,{"complex_id":"103","stop_name":"Bowery","borough":"M","gtfs_latitude":"40.72028","gtfs_longitude":"-73.993915","daytime_routes":"J Z"}
+,{"complex_id":"608","stop_name":"4 Av-9 St","borough":"Bk","gtfs_latitude":"40.670847","gtfs_longitude":"-73.988302","daytime_routes":"R"}
+,{"complex_id":"626","stop_name":"Franklin Av-Medgar Evers College","borough":"Bk","gtfs_latitude":"40.670682","gtfs_longitude":"-73.958131","daytime_routes":"2 3 4 5"}
+,{"complex_id":"407","stop_name":"Astor Pl","borough":"M","gtfs_latitude":"40.730054","gtfs_longitude":"-73.99107","daytime_routes":"6"}
+,{"complex_id":"44","stop_name":"Church Av","borough":"Bk","gtfs_latitude":"40.650527","gtfs_longitude":"-73.962982","daytime_routes":"B Q"}
+,{"complex_id":"620","stop_name":"Court St","borough":"Bk","gtfs_latitude":"40.6941","gtfs_longitude":"-73.991777","daytime_routes":"R"}
+,{"complex_id":"93","stop_name":"Chauncey St","borough":"Bk","gtfs_latitude":"40.682893","gtfs_longitude":"-73.910456","daytime_routes":"J Z"}
+,{"complex_id":"456","stop_name":"61 St-Woodside","borough":"Q","gtfs_latitude":"40.74563","gtfs_longitude":"-73.902984","daytime_routes":"7"}
+,{"complex_id":"56","stop_name":"Ocean Pkwy","borough":"Bk","gtfs_latitude":"40.576312","gtfs_longitude":"-73.968501","daytime_routes":"Q"}
+,{"complex_id":"88","stop_name":"Norwood Av","borough":"Bk","gtfs_latitude":"40.68141","gtfs_longitude":"-73.880039","daytime_routes":"J Z"}
+,{"complex_id":"621","stop_name":"Broadway Junction","borough":"Bk","gtfs_latitude":"40.678856","gtfs_longitude":"-73.90324","daytime_routes":"L"}
+,{"complex_id":"295","stop_name":"231 St","borough":"Bx","gtfs_latitude":"40.878856","gtfs_longitude":"-73.904834","daytime_routes":"1"}
+,{"complex_id":"263","stop_name":"63 Dr-Rego Park","borough":"Q","gtfs_latitude":"40.729846","gtfs_longitude":"-73.861604","daytime_routes":"M R"}
+,{"complex_id":"164","stop_name":"34 St-Penn Station","borough":"M","gtfs_latitude":"40.752287","gtfs_longitude":"-73.993391","daytime_routes":"A C E"}
+,{"complex_id":"200","stop_name":"Beach 90 St","borough":"Q","gtfs_latitude":"40.588034","gtfs_longitude":"-73.813641","daytime_routes":"A S"}
+,{"complex_id":"316","stop_name":"50 St","borough":"M","gtfs_latitude":"40.761728","gtfs_longitude":"-73.983849","daytime_routes":"1"}
+,{"complex_id":"310","stop_name":"96 St","borough":"M","gtfs_latitude":"40.793919","gtfs_longitude":"-73.972323","daytime_routes":"1 2 3"}
+,{"complex_id":"627","stop_name":"Franklin Av","borough":"Bk","gtfs_latitude":"40.68138","gtfs_longitude":"-73.956848","daytime_routes":"C"}
+,{"complex_id":"612","stop_name":"51 St","borough":"M","gtfs_latitude":"40.757107","gtfs_longitude":"-73.97192","daytime_routes":"6"}
+,{"complex_id":"71","stop_name":"8 Av","borough":"Bk","gtfs_latitude":"40.635064","gtfs_longitude":"-74.011719","daytime_routes":"N"}
+,{"complex_id":"519","stop_name":"Richmond Valley","borough":"SI","gtfs_latitude":"40.519631","gtfs_longitude":"-74.229141","daytime_routes":"SIR"}
+,{"complex_id":"617","stop_name":"Atlantic Av-Barclays Ctr","borough":"Bk","gtfs_latitude":"40.684359","gtfs_longitude":"-73.977666","daytime_routes":"2 3 4 5"}
+,{"complex_id":"359","stop_name":"Flatbush Av-Brooklyn College","borough":"Bk","gtfs_latitude":"40.632836","gtfs_longitude":"-73.947642","daytime_routes":"2 5"}
+,{"complex_id":"378","stop_name":"Woodlawn","borough":"Bx","gtfs_latitude":"40.886037","gtfs_longitude":"-73.878751","daytime_routes":"4"}
+,{"complex_id":"607","stop_name":"34 St-Herald Sq","borough":"M","gtfs_latitude":"40.749719","gtfs_longitude":"-73.987823","daytime_routes":"B D F M"}
+,{"complex_id":"446","stop_name":"Morris Park","borough":"Bx","gtfs_latitude":"40.854364","gtfs_longitude":"-73.860495","daytime_routes":"5"}
+,{"complex_id":"618","stop_name":"8 Av","borough":"M","gtfs_latitude":"40.739777","gtfs_longitude":"-74.002578","daytime_routes":"L"}
+,{"complex_id":"461","stop_name":"Queensboro Plaza","borough":"Q","gtfs_latitude":"40.750582","gtfs_longitude":"-73.940202","daytime_routes":"7"}
+,{"complex_id":"370","stop_name":"Whitlock Av","borough":"Bx","gtfs_latitude":"40.826525","gtfs_longitude":"-73.886283","daytime_routes":"6"}
+,{"complex_id":"98","stop_name":"Flushing Av","borough":"Bk","gtfs_latitude":"40.70026","gtfs_longitude":"-73.941126","daytime_routes":"M J"}
+,{"complex_id":"504","stop_name":"Clifton","borough":"SI","gtfs_latitude":"40.621319","gtfs_longitude":"-74.071402","daytime_routes":"SIR"}
+,{"complex_id":"624","stop_name":"Park Place","borough":"M","gtfs_latitude":"40.713051","gtfs_longitude":"-74.008811","daytime_routes":"2 3"}
+,{"complex_id":"433","stop_name":"Jackson Av","borough":"Bx","gtfs_latitude":"40.81649","gtfs_longitude":"-73.907807","daytime_routes":"2 5"}
+,{"complex_id":"215","stop_name":"Tremont Av","borough":"Bx","gtfs_latitude":"40.85041","gtfs_longitude":"-73.905227","daytime_routes":"B D"}
+,{"complex_id":"120","stop_name":"Bedford Av","borough":"Bk","gtfs_latitude":"40.717304","gtfs_longitude":"-73.956872","daytime_routes":"L"}
+,{"complex_id":"222","stop_name":"Roosevelt Island","borough":"M","gtfs_latitude":"40.759145","gtfs_longitude":"-73.95326","daytime_routes":"M"}
+,{"complex_id":"83","stop_name":"Woodhaven Blvd","borough":"Q","gtfs_latitude":"40.693879","gtfs_longitude":"-73.851576","daytime_routes":"J Z"}
+,{"complex_id":"514","stop_name":"Eltingville","borough":"SI","gtfs_latitude":"40.544601","gtfs_longitude":"-74.16457","daytime_routes":"SIR"}
+,{"complex_id":"232","stop_name":"2 Av","borough":"M","gtfs_latitude":"40.723402","gtfs_longitude":"-73.989938","daytime_routes":"F"}
+,{"complex_id":"348","stop_name":"Rockaway Av","borough":"Bk","gtfs_latitude":"40.662549","gtfs_longitude":"-73.908946","daytime_routes":"3"}]

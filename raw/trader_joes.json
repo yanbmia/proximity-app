@@ -1,0 +1,20 @@
+[
+  {"name": "Trader Joe's - 72nd & Broadway", "address": "2073 Broadway, New York, NY 10023", "borough": "Manhattan", "lon": -73.982067718576, "lat": 40.778595132337},
+  {"name": "Trader Joe's - Chelsea", "address": "675 6th Ave, New York, NY 10010", "borough": "Manhattan", "lon": -73.99376738166, "lat": 40.741692439537},
+  {"name": "Trader Joe's - East Village", "address": "436 East 14th St, New York, NY 10009", "borough": "Manhattan", "lon": -73.981763794681, "lat": 40.730968919051},
+  {"name": "Trader Joe's - Essex Crossing", "address": "400 Grand St, New York, NY 10002", "borough": "Manhattan", "lon": -73.987438030213, "lat": 40.716231071037},
+  {"name": "Trader Joe's - Harlem", "address": "123 W 125th St, New York, NY 10027", "borough": "Manhattan", "lon": -73.946121680395, "lat": 40.808107855221},
+  {"name": "Trader Joe's - Murray Hill", "address": "200 E 32nd St, New York, NY 10016", "borough": "Manhattan", "lon": -73.979028863092, "lat": 40.744362786049},
+  {"name": "Trader Joe's - SoHo", "address": "233 Spring St, New York, NY 10013", "borough": "Manhattan", "lon": -74.004915713507, "lat": 40.725651264832},
+  {"name": "Trader Joe's - Union Square", "address": "142 E 14th St, New York, NY 10003", "borough": "Manhattan", "lon": -73.987857220559, "lat": 40.733512835412},
+  {"name": "Trader Joe's - Upper East Side (Bridgemarket)", "address": "405 E 59th St, New York, NY 10022", "borough": "Manhattan", "lon": -73.9617778187, "lat": 40.759600025141},
+  {"name": "Trader Joe's - Upper West Side", "address": "670 Columbus Ave, New York, NY 10025", "borough": "Manhattan", "lon": -73.969421345657, "lat": 40.790373662656},
+  {"name": "Trader Joe's - Brooklyn (City Point)", "address": "445 Gold St, Brooklyn, NY 11201", "borough": "Brooklyn", "lon": -73.983383497495, "lat": 40.693240084907},
+  {"name": "Trader Joe's - Williamsburg", "address": "200 Kent Ave, Brooklyn, NY 11249", "borough": "Brooklyn", "lon": -73.964242413373, "lat": 40.71806246845},
+  {"name": "Trader Joe's - Brooklyn (Court St)", "address": "130 Court St, Brooklyn, NY 11201", "borough": "Brooklyn", "lon": -73.992495585966, "lat": 40.689589086443},
+  {"name": "Trader Joe's - Forest Hills", "address": "69-65 Yellowstone Blvd, Forest Hills, NY 11375", "borough": "Queens", "lon": -73.847120593869, "lat": 40.722916902412},
+  {"name": "Trader Joe's - Long Island City", "address": "22-43 Jackson Ave, Long Island City, NY 11101", "borough": "Queens", "lon": -73.947095182973, "lat": 40.745311935737},
+  {"name": "Trader Joe's - Rego Park", "address": "90-30 Metropolitan Ave, Rego Park, NY 11374", "borough": "Queens", "lon": -73.859264233588, "lat": 40.71170776958},
+  {"name": "Trader Joe's - Staten Island South Shore", "address": "6400 Amboy Rd, Staten Island, NY 10309", "borough": "Staten Island", "lon": -74.216939483415, "lat": 40.521689096659},
+  {"name": "Trader Joe's - Staten Island (Richmond Ave)", "address": "2385 Richmond Ave, Staten Island, NY 10314", "borough": "Staten Island", "lon": -74.16623480338, "lat": 40.590180277821}
+]
