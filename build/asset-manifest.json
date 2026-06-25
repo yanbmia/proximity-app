@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1679181.css",
+    "main.js": "/static/js/main.454a805b.js",
+    "static/media/neighborhoods.geojson": "/static/media/neighborhoods.0d294cbd6777f65b0eab.geojson",
+    "static/media/subway_stations.geojson": "/static/media/subway_stations.a02d558feabd01ba4df0.geojson",
+    "static/media/logo.png": "/static/media/logo.94778459b09545e9e823.png",
+    "static/media/subway_lines.geojson": "/static/media/subway_lines.ddc33e1f9bbfa4f0fc9f.geojson",
+    "static/media/nyu.jpg": "/static/media/nyu.31d3ac9e7d3908520975.jpg",
+    "static/media/columbia.jpeg": "/static/media/columbia.acbf3773792412f30c3c.jpeg",
+    "static/media/trader_joes_coordinates.geojson": "/static/media/trader_joes_coordinates.a27cf58e403b2a3d580e.geojson",
+    "static/media/whole_foods_coordinates.geojson": "/static/media/whole_foods_coordinates.b31455a6e977d78c0e4a.geojson",
+    "index.html": "/index.html",
+    "main.c1679181.css.map": "/static/css/main.c1679181.css.map",
+    "main.454a805b.js.map": "/static/js/main.454a805b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1679181.css",
+    "static/js/main.454a805b.js"
+  ]
+}
