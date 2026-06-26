@@ -15,7 +15,6 @@ coverage.
 - [Data Sources](#data-sources)
 - [Scoring Methodology](#scoring-methodology)
 - [Environment Setup](#environment-setup)
-- [Usage](#usage)
 
 ## General Information
 
@@ -119,20 +118,4 @@ Install and run:
 npm install
 npm start
 ```
-
-## Usage
-
-1. **Select Filters**: Click on filters in the left sidebar to shade
-   neighborhoods by your preferences. Click a filter chip again to remove it.
-   Some filters (University, Grocery Chains) have sub-toggles -- e.g. choose
-   NYU, Columbia, or both under University. Once a school is selected,
-   hovering a neighborhood shows its estimated ETA to that campus.
-2. **Explore the Map**: Zoom with the +/- controls, drag to pan, and hover
-   over a neighborhood to see its name and borough. With Subway Stations
-   enabled, every line is drawn in its official MTA color and each station
-   is clickable to see which lines serve it.
-3. **Show Borough Colors**: Toggle this in the bottom right to color-code
-   neighborhoods by borough instead.
-4. **About**: Click the "i" icon next to "Proximity" to see how the app works
-   and where the data comes from.
 
