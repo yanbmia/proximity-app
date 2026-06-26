@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/proximity-app/static/css/main.0efaa806.css",
-    "main.js": "/proximity-app/static/js/main.87d9df70.js",
-    "static/media/neighborhoods.geojson": "/proximity-app/static/media/neighborhoods.0d294cbd6777f65b0eab.geojson",
-    "static/media/subway_stations.geojson": "/proximity-app/static/media/subway_stations.a02d558feabd01ba4df0.geojson",
-    "static/media/subway_lines.geojson": "/proximity-app/static/media/subway_lines.ddc33e1f9bbfa4f0fc9f.geojson",
-    "static/media/nyu.jpg": "/proximity-app/static/media/nyu.31d3ac9e7d3908520975.jpg",
-    "static/media/logo.png": "/proximity-app/static/media/logo.4ba677d361bd7b72e7e2.png",
-    "static/media/columbia.jpeg": "/proximity-app/static/media/columbia.acbf3773792412f30c3c.jpeg",
-    "static/media/trader_joes_coordinates.geojson": "/proximity-app/static/media/trader_joes_coordinates.a27cf58e403b2a3d580e.geojson",
-    "static/media/whole_foods_coordinates.geojson": "/proximity-app/static/media/whole_foods_coordinates.b31455a6e977d78c0e4a.geojson",
-    "index.html": "/proximity-app/index.html",
-    "main.0efaa806.css.map": "/proximity-app/static/css/main.0efaa806.css.map",
-    "main.87d9df70.js.map": "/proximity-app/static/js/main.87d9df70.js.map"
+    "main.css": "/proximity/static/css/main.baead09d.css",
+    "main.js": "/proximity/static/js/main.f04b42e0.js",
+    "static/media/neighborhoods.geojson": "/proximity/static/media/neighborhoods.0d294cbd6777f65b0eab.geojson",
+    "static/media/subway_stations.geojson": "/proximity/static/media/subway_stations.a02d558feabd01ba4df0.geojson",
+    "static/media/subway_lines.geojson": "/proximity/static/media/subway_lines.ddc33e1f9bbfa4f0fc9f.geojson",
+    "static/media/nyu.jpg": "/proximity/static/media/nyu.31d3ac9e7d3908520975.jpg",
+    "static/media/logo.png": "/proximity/static/media/logo.4ba677d361bd7b72e7e2.png",
+    "static/media/columbia.jpeg": "/proximity/static/media/columbia.acbf3773792412f30c3c.jpeg",
+    "static/media/trader_joes_coordinates.geojson": "/proximity/static/media/trader_joes_coordinates.a27cf58e403b2a3d580e.geojson",
+    "static/media/whole_foods_coordinates.geojson": "/proximity/static/media/whole_foods_coordinates.b31455a6e977d78c0e4a.geojson",
+    "index.html": "/proximity/index.html",
+    "main.baead09d.css.map": "/proximity/static/css/main.baead09d.css.map",
+    "main.f04b42e0.js.map": "/proximity/static/js/main.f04b42e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0efaa806.css",
-    "static/js/main.87d9df70.js"
+    "static/css/main.baead09d.css",
+    "static/js/main.f04b42e0.js"
   ]
 }
