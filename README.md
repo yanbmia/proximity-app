@@ -1,4 +1,4 @@
-# [Proximity](https://yanbmia.github.io/proximity-app/)
+# [Proximity](https://yanbmia.github.io/proximity/)
 
 Designed to help people find the perfect neighborhood in New York
 City, built around proximity to universities (NYU and Columbia),
