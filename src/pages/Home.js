@@ -326,6 +326,7 @@ const Home = () => {
     //ADDING REGION FILLS AND OUTLINES
 
     map.current.on("load", () => {
+     try {
       // Adding neighborhoods source
       map.current.addSource("neighborhoods", {
         type: "geojson",
@@ -578,9 +579,23 @@ const Home = () => {
           map.current.setCenter(new maplibregl.LngLat(newLng, newLat));
         }
       });
-    });
 
-    setMapLoaded(true);
+      // Only flip this once sources/layers above actually exist on the
+      // style -- it gates the second useEffect below, which calls
+      // setLayoutProperty/setPaintProperty on those layers. Setting it
+      // outside this "load" callback is a race: on slower connections
+      // (e.g. the deployed site vs. localhost) the second effect can run
+      // before the style finishes loading and crash maplibre internals.
+      setMapLoaded(true);
+     } catch (err) {
+      // maplibre-gl swallows errors thrown inside "load" listeners on
+      // Safari (see maplibre/maplibre-gl-js#4532), turning a normal
+      // ReferenceError into a confusing internal crash instead of a
+      // readable stack trace. Log it ourselves so the real cause shows up.
+      // eslint-disable-next-line no-console
+      console.error("Error inside map 'load' handler:", err);
+     }
+    });
   }, []);
 
   //SECOND USE EFFECT TO UPDATE THINGS WITHOUT RERENDER

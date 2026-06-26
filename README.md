@@ -1,10 +1,11 @@
-# Proximity
+# [Proximity] (https://yanbmia.github.io/proximity-app/)
 
-A website designed to help people find the perfect neighborhood in New York
+Designed to help people find the perfect neighborhood in New York
 City, built around proximity to universities (NYU and Columbia),
 alongside safety, parks, grocery chains, subway access, rent, and bikeshare
 coverage.
 
+![Proximity screenshot](proximity-image-display.png)
 
 ## Table of Contents
 
@@ -12,6 +13,7 @@ coverage.
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Data Sources](#data-sources)
+- [Scoring Methodology](#scoring-methodology)
 - [Environment Setup](#environment-setup)
 - [Usage](#usage)
 - [Room for Improvement](#room-for-improvement)
@@ -65,6 +67,37 @@ each neighborhood's shading reflects your combined preferences.
 All raw data and the scripts used to turn it into neighborhood-level scores
 live in `raw/` and `scripts/`.
 
+## Scoring Methodology
+
+Each neighborhood gets a 0-3 score per filter (except Budget, which stores a
+raw dollar value). Methodology adapts "bayborhood," a similar SF
+neighborhood-matching project, to NYC's free/public data sources:
+
+- **Distance**: geodesic (haversine) distance from each neighborhood's
+  polygon centroid (shoelace formula) to the nearest relevant point (park,
+  store, station). No GIS libraries (shapely/geopy) -- pure Python, since the
+  scripts run without network/package access.
+- **Binning into quartiles**: Parks, BikeShare, and Grocery Chains bucket
+  neighborhoods into quartiles by distance. Parks/BikeShare use rank-based
+  quartiles (sorted, split into even-sized groups); Grocery uses value-based
+  percentiles (`np.percentile`). Closest quartile = 0, farthest = 3 --
+  intentionally inverted, carried over from bayborhood's original convention.
+- **Subway**: uses fixed walking-time thresholds instead of quartiles
+  (>15 min -> 3, >10 min -> 2, >5 min -> 1, <=5 min -> 0), approximating walk
+  time from haversine distance at 5 km/h (Walk Score's standard pedestrian
+  speed) since the original's Bing Maps Routes API isn't free.
+- **Budget**: stores the actual HUD Small Area Fair Market Rent (1BR, chosen
+  for the app's student/young-professional renter persona) rather than a 0-3
+  score; the UI dims neighborhoods above a user-set threshold. Spatial join
+  is nearest-centroid (neighborhood centroid -> nearest ZIP centroid), not a
+  true polygon intersection.
+- **Known limitation**: the BikeShare/Citi Bike dataset is a ~280-station
+  sample (~10% of the system) due to GBFS feed truncation in data collection,
+  so closest-station distances skew slightly far, especially in
+  station-dense areas.
+
+See `scripts/` for the full implementation per filter.
+
 ## Environment Setup
 
 ### Install NodeJS
@@ -104,6 +137,3 @@ npm start
 4. **About**: Click the "i" icon next to "Proximity" to see how the app works
    and where the data comes from.
 
-## Project Status
-
-- Project is: _in progress_.
