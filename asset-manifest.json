@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proximity-app/static/css/main.c1679181.css",
-    "main.js": "/proximity-app/static/js/main.0b52634b.js",
+    "main.js": "/proximity-app/static/js/main.2f5ac7c7.js",
     "static/media/neighborhoods.geojson": "/proximity-app/static/media/neighborhoods.0d294cbd6777f65b0eab.geojson",
     "static/media/subway_stations.geojson": "/proximity-app/static/media/subway_stations.a02d558feabd01ba4df0.geojson",
     "static/media/logo.png": "/proximity-app/static/media/logo.94778459b09545e9e823.png",
@@ -12,10 +12,10 @@
     "static/media/whole_foods_coordinates.geojson": "/proximity-app/static/media/whole_foods_coordinates.b31455a6e977d78c0e4a.geojson",
     "index.html": "/proximity-app/index.html",
     "main.c1679181.css.map": "/proximity-app/static/css/main.c1679181.css.map",
-    "main.0b52634b.js.map": "/proximity-app/static/js/main.0b52634b.js.map"
+    "main.2f5ac7c7.js.map": "/proximity-app/static/js/main.2f5ac7c7.js.map"
   },
   "entrypoints": [
     "static/css/main.c1679181.css",
-    "static/js/main.0b52634b.js"
+    "static/js/main.2f5ac7c7.js"
   ]
 }
