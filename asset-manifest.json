@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/proximity/static/css/main.baead09d.css",
-    "main.js": "/proximity/static/js/main.f04b42e0.js",
+    "main.css": "/proximity/static/css/main.588340c2.css",
+    "main.js": "/proximity/static/js/main.eb09ceef.js",
     "static/media/neighborhoods.geojson": "/proximity/static/media/neighborhoods.0d294cbd6777f65b0eab.geojson",
     "static/media/subway_stations.geojson": "/proximity/static/media/subway_stations.a02d558feabd01ba4df0.geojson",
     "static/media/subway_lines.geojson": "/proximity/static/media/subway_lines.ddc33e1f9bbfa4f0fc9f.geojson",
@@ -11,11 +11,11 @@
     "static/media/trader_joes_coordinates.geojson": "/proximity/static/media/trader_joes_coordinates.a27cf58e403b2a3d580e.geojson",
     "static/media/whole_foods_coordinates.geojson": "/proximity/static/media/whole_foods_coordinates.b31455a6e977d78c0e4a.geojson",
     "index.html": "/proximity/index.html",
-    "main.baead09d.css.map": "/proximity/static/css/main.baead09d.css.map",
-    "main.f04b42e0.js.map": "/proximity/static/js/main.f04b42e0.js.map"
+    "main.588340c2.css.map": "/proximity/static/css/main.588340c2.css.map",
+    "main.eb09ceef.js.map": "/proximity/static/js/main.eb09ceef.js.map"
   },
   "entrypoints": [
-    "static/css/main.baead09d.css",
-    "static/js/main.f04b42e0.js"
+    "static/css/main.588340c2.css",
+    "static/js/main.eb09ceef.js"
   ]
 }
