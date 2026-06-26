@@ -715,10 +715,10 @@ const Home = () => {
           </div>
           <div className="flex flex-col xl:py-4 xl:px-3 py-2 px-2 rounded-b-2xl">
             <h1 className=" text-gray-900 font-semibold subTitle">
-              Add More Filters
+              Add Filters
             </h1>
             <h3 className="mb-2 text-gray-500 subTitle2">
-              Continue refining your ideal neighborhoods
+              Refine neighborhoods
             </h3>
             <div className="flex flex-col gap-1.5 pb-4 mb-3 border-b border-gray-200 bodyText">
               <div
@@ -837,10 +837,10 @@ const Home = () => {
 
             <div className="flex flex-col pb-4">
               <h1 className=" text-gray-900 font-semibold subTitle">
-                Active Filters
+                Active
               </h1>
               <h2 className="text-gray-500 subTitle2 mb-1">
-                Click a filter to remove it
+                Click to remove
               </h2>
               <div>{displayActiveFilters()}</div>
             </div>
@@ -882,9 +882,6 @@ const Home = () => {
       {showInfo ? (
         <div className="absolute opacity-100 left-0 right-0 mx-auto about-container">
           <div class="lg:text-sm text-xs bg-white pb-16  md:px-8 px-4 rounded-md">
-            <h1 className="lg:text-3xl sm:text-xl text-xl font-semibold text-center py-6">
-              About
-            </h1>
             <div class="lg:text-lg text-sm mb-1">
               <b>How does Proximity work?</b>
             </div>
